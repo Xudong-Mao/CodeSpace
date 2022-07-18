@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "${workspaceFolder}/LearnSpace/考研/C"
+    "cmake.sourceDirectory": "${workspaceFolder}/LearnSpace/考研/C",
+    "C_Cpp.errorSquiggles": "Disabled"
 }
